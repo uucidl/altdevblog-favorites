@@ -6,6 +6,7 @@ Since learning from failure is also interesting, I'm thinking about adding a cri
 
 Favorites:
 
+* [Choreographing Behavior: 2 examples](http://altdevblogaday.org/2011/03/30/choreographing-behavior-2-examples/)
 * [Ideal Hash Tries, an Implementation in C](http://altdevblogaday.org/2011/03/22/ideal-hash-tries-an-implementation-in-c/)
 * [Time to know your code](http://altdevblogaday.org/2011/03/22/time-to-know-your-code/)
 * [Moving beyond the Linear Bezier by John Moore](http://altdevblogaday.org/2011/03/21/moving-beyond-the-linear-bezier/)
