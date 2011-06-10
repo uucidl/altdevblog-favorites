@@ -6,6 +6,7 @@ Since learning from failure is also interesting, I'm thinking about adding a cri
 
 Favorites:
 
+* [String Redux by Niklas Frykholm](http://altdevblogaday.org/2011/06/10/strings-redux/)
 * [Understanding the Fourier transform by Stuart Riffle](http://altdevblogaday.org/2011/05/17/understanding-the-fourier-transform/)
 * [Dealing with Designer Input Latency by Norm Nazaroff](http://altdevblogaday.org/2011/04/15/dealing-with-designer-input-latency/) 
 * [Choreographing Behavior: 2 examples](http://altdevblogaday.org/2011/03/30/choreographing-behavior-2-examples/)
