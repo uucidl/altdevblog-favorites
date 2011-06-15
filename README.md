@@ -6,6 +6,7 @@ Since learning from failure is also interesting, I'm thinking about adding a cri
 
 Favorites:
 
+* [Monitoring Your Game by Niklas Frykholm](http://altdevblogaday.org/2011/05/26/monitoring-your-game/)
 * [String Redux by Niklas Frykholm](http://altdevblogaday.org/2011/06/10/strings-redux/)
 * [Understanding the Fourier transform by Stuart Riffle](http://altdevblogaday.org/2011/05/17/understanding-the-fourier-transform/)
 * [Dealing with Designer Input Latency by Norm Nazaroff](http://altdevblogaday.org/2011/04/15/dealing-with-designer-input-latency/) 
