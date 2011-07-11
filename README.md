@@ -6,6 +6,7 @@ Since learning from failure is also interesting, I'm thinking about adding a cri
 
 Favorites:
 
+* [Stick Motion by Fabrice Lété](http://altdevblogaday.com/2011/07/04/stick-motion/)
 * [Monitoring Your Game by Niklas Frykholm](http://altdevblogaday.com/2011/05/26/monitoring-your-game/)
 * [String Redux by Niklas Frykholm](http://altdevblogaday.com/2011/06/10/strings-redux/)
 * [Understanding the Fourier transform by Stuart Riffle](http://altdevblogaday.com/2011/05/17/understanding-the-fourier-transform/)
