@@ -6,6 +6,7 @@ Since learning from failure is also interesting, I'm thinking about adding a cri
 
 Favorites:
 
+* [When they said “numbers don’t lie,” they were lying by Richard Fine](http://altdevblogaday.com/2011/07/23/lying-numbers/)
 * [Stick Motion by Fabrice Lété](http://altdevblogaday.com/2011/07/04/stick-motion/)
 * [Monitoring Your Game by Niklas Frykholm](http://altdevblogaday.com/2011/05/26/monitoring-your-game/)
 * [String Redux by Niklas Frykholm](http://altdevblogaday.com/2011/06/10/strings-redux/)
