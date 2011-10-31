@@ -6,6 +6,7 @@ Since learning from failure is also interesting, I'm thinking about adding a cri
 
 Favorites:
 
+* [Low Level Animation part 2 by Niklas Frykholm](http://altdevblogaday.com/2011/10/23/low-level-animation-part-2/)
 * [Exposing Social's Gaming Hidden Lever by Tyler York](http://altdevblogaday.com/2011/10/27/exposing-social-gamings-hidden-lever/)
 * [When they said “numbers don’t lie,” they were lying by Richard Fine](http://altdevblogaday.com/2011/07/23/lying-numbers/)
 * [Stick Motion by Fabrice Lété](http://altdevblogaday.com/2011/07/04/stick-motion/)
