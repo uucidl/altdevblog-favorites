@@ -6,6 +6,7 @@ Since learning from failure is also interesting, I'm thinking about adding a cri
 
 Favorites:
 
+* [WPA–Xperf Trace Analysis Reimagined by Bruce-Dawson](http://www.altdevblogaday.com/2012/06/20/wpaxperf-trace-analysis-reimagined/)
 * [Functional Programming in C++ by John Carmack](http://www.altdevblogaday.com/2012/04/26/functional-programming-in-c/)
 * [Concurrent World Editing, on the Cheap by Jonathan Blow](http://altdevblogaday.com/2011/12/25/concurrent-world-editing-on-the-cheap/)
 * [Low Level Animation part 2 by Niklas Frykholm](http://altdevblogaday.com/2011/10/23/low-level-animation-part-2/)
