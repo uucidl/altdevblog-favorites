@@ -2,6 +2,9 @@ Hello,
 
 Note: By now the original blog website is down and of course most of these links now fail. Thanks, transient internet! There is a strong possibility you can find these articles however when looking via google, so try it!
 
+Fortunately Nyklas Frykholm has collected his articles into a repository, which
+you will find as a submodule here.
+
 --
 
 [AltDevBlogADay](http://altdevblogaday.com/2011/01/15/it-begins/) is a collection of articles by game developers. It is very inclusive and for this reason may be hard to read. This repository aims to highlight my favorite articles, hopefully those which will become classics.
